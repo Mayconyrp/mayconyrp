@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
 </div>
 
+![Estatísticas do GitHub de Mayconyrp](https://github-readme-stats.vercel.app/api?username=mayconyrp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
 ## Contatos:
 
 <div>
