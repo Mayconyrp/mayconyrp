@@ -1,4 +1,5 @@
-## Olá, me chamo Maycon ! 
+## Olá!
+Prazer, me chamo Maycon! Sou um desenvolvedor fullstack e atualmente estou trabalhando com C#,Node e Angular!
 
 ## Habilidades
 
