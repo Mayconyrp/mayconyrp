@@ -1,6 +1,6 @@
 ## Olá!
 Prazer, me chamo Maycon!
-Neste repositório, você encontrará meus estudos focados em páginas web, além de projetos em C#, Node.js e Java, seguindo padrões de código limpo (clean code) e arquitetura de API REST.
+Neste repositório, você encontrará meus estudos focados em páginas web, projetos em C#, Node.js e Java, seguindo padrões de código limpo (clean code) e arquitetura de API REST.
 Qualquer projeto que tenha despertado seu interesse, pode me contatar através das redes anexadas ao meu git.
 ## Habilidades
 
