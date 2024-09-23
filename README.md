@@ -1,5 +1,5 @@
 ## Olá!
-Olá, sou Maycon, formado em Análise e Desenvolvimento de Sistemas e um programador full-stack especializado em Node.js, TypeScript, C# e ReactJS. Com uma abordagem focada em resultados, ajudo empresas a transformar suas ideias em soluções tecnológicas eficazes. Estou comprometido em impulsionar a inovação e a eficiência, entregando produtos de alta qualidade que atendem às necessidades do mercado.
+Prazer, Sou Maycon, formado em Análise e Desenvolvimento de Sistemas e um programador full-stack especializado em Node.js, TypeScript, C# e ReactJS. Com uma abordagem focada em resultados, ajudo empresas a transformar suas ideias em soluções tecnológicas eficazes. Estou comprometido em impulsionar a inovação e a eficiência, entregando produtos de alta qualidade que atendem às necessidades do mercado.
 
 ## Habilidades
 <div align="center">
