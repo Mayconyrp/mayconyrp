@@ -1,14 +1,13 @@
 ## Olá!
-Prazer, me chamo Maycon!
-## Habilidades
+Olá, sou Maycon, formado em Análise e Desenvolvimento de Sistemas e um programador full-stack especializado em Node.js, TypeScript, C# e ReactJS. Com uma abordagem focada em resultados, ajudo empresas a transformar suas ideias em soluções tecnológicas eficazes. Estou comprometido em impulsionar a inovação e a eficiência, entregando produtos de alta qualidade que atendem às necessidades do mercado.
 
+## Habilidades
 <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
-    <img src="https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    <img src="https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
-    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular">
 </div>
 
 <div>
