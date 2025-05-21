@@ -1,5 +1,5 @@
 ## Olá!
-Prazer, Sou Maycon, formado em Análise e Desenvolvimento de Sistemas e um programador full-stack especializado em Node.js, TypeScript, C# e ReactJS. Com uma abordagem focada em resultados, ajudo empresas a transformar suas ideias em soluções tecnológicas eficazes. Estou comprometido em impulsionar a inovação e a eficiência, entregando produtos de alta qualidade que atendem às necessidades do mercado.
+Prazer, sou Maycon, formado em Análise e Desenvolvimento de Sistemas, com especialização em desenvolvimento back-end utilizando Node.js e TypeScript. Tenho uma abordagem focada em resultados, ajudando empresas a transformar ideias em soluções tecnológicas eficazes e inovadoras. Comprometido com a entrega de produtos de alta qualidade, busco sempre otimizar processos e atender às demandas do mercado de forma eficiente e estratégica.
 
 ## Habilidades
 <div align="center">
@@ -7,8 +7,6 @@ Prazer, Sou Maycon, formado em Análise e Desenvolvimento de Sistemas e um progr
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-    <img src="https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
 </div>
 
 <div>
