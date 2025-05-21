@@ -1,5 +1,5 @@
 ## Olá!
-Prazer, sou Maycon, formado em Análise e Desenvolvimento de Sistemas, com especialização em desenvolvimento back-end utilizando Node.js e TypeScript. Tenho uma abordagem focada em resultados, ajudando empresas a transformar ideias em soluções tecnológicas eficazes e inovadoras. Comprometido com a entrega de produtos de alta qualidade, busco sempre otimizar processos e atender às demandas do mercado de forma eficiente e estratégica.
+Prazer, sou Maycon, formado em Análise e Desenvolvimento de Sistemas, com especialização em desenvolvimento back-end utilizando Node.js e TypeScript. Tenho uma abordagem focada em resultados, ajudando empresas a transformar ideias em soluções tecnológicas eficazes e inovadoras. Comprometido com a entrega de produtos de alta qualidade, busco sempre otimizar processos e atender às demandas do mercado de forma eficiente e estratégica, com foco em realizar entregas rápidas e de alto impacto.
 
 ## Habilidades
 <div align="center">
